@@ -388,7 +388,7 @@ function App() {
 
         {/* Footer */}
         <footer className="mt-12 text-center text-sm text-gray-500">
-          <p>Made with ❤ by Nifz Dev</p>
+          <p>© 2025 SocialDownloader. All rights reserved.</p>
         </footer>
       </div>
     </div>
